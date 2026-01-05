@@ -67,17 +67,6 @@
 
 <div align="center">
 
-## 🚀 **FEATURED PROJECTS**
-
-[![CV AI Enhancer](https://github-readme-stats.vercel.app/api/pin/?username=gianluca-sestito&repo=CV-AI-Enhancer&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF006E&text_color=ffffff&bg_color=0a0a0f)](https://github.com/gianluca-sestito/CV-AI-Enhancer)
-[![Resilient Order Saga](https://github-readme-stats.vercel.app/api/pin/?username=gianluca-sestito&repo=Resilient-Order-Saga&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF006E&text_color=ffffff&bg_color=0a0a0f)](https://github.com/gianluca-sestito/Resilient-Order-Saga)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 **CURRENTLY**
 
 ```typescript
